@@ -2,34 +2,24 @@
 
 ---
 
-### Category Name 1 
+### Publications
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
+[Two Stream Deep Convolutional Neural Network for Eye State Recognition and Blink Detection](/pdf/blink.pdf)
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+[Carcinoma type classification from high resolution breast microscopy images using hybrid ensemble of deep convolutional features and gradient boosting trees classifiers](/pdf/breast_ensemble.pdf)
+
+---
+[Carcinoma classification from breast histopathology images using a multi level spatial fusion mechanism of deep convolutional features from differently stain normalized patches](/pdf/breast_fuse.pdf)
+
+
+---
+[DAN : Breast Cancer Classification from High Resolution Histology Images using Deep Attention Network](/pdf/breast_attn.pdf)
+
+---
+[Localizing License Plates in Real Time with RetinaNet Object Detector](/pdf/LPD.pdf)
+
+
+---
+
