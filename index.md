@@ -4,7 +4,7 @@
 
 ### Publications
 
-[Two Stream Deep Convolutional Neural Network for Eye State Recognition and Blink Detection](/pdf/blink.pdf)
+[Two Stream Deep Convolutional Neural Network for Eye State Recognition and Blink Detection](/pdf/eye.pdf)
 
 
 ---
