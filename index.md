@@ -1,8 +1,4 @@
-## Portfolio
-
----
-
-### Publications
+## Publications
 
 [Two Stream Deep Convolutional Neural Network for Eye State Recognition and Blink Detection](/pdf/eye.pdf)
 
